@@ -1,10 +1,12 @@
+_Note:_ This is an archive of the old source code and binary of the Avara ScoreKeeper plug-in. It is uploaded to GitHub upon request of, and in support of, the [Avaraline Avara port](https://github.com/avaraline/Avara/).
+
 ![Splash](img/websplash.jpg)
 
 ## What is ScoreKeeper?
 
 ![Splash](img/beforeafter.gif)
 
-ScoreKeeper is a free custom score plug-in for [Avara](https://github.com/avaraline/Avara/), a realtime 3D combat simulator for the Macintosh. The plug-in adds a new detailed scoreboard to the Roster window. ScoreKeeper features over a dozen different scores for each player and team. Along with score logging and the graphical user interface this plug-in is the best around! Read on for more information about the plug-in and its features...
+ScoreKeeper is a **free** custom score plug-in for [Avara](https://en.wikipedia.org/wiki/Avara), a realtime 3D combat simulator for the Macintosh. The plug-in adds a new detailed scoreboard to the Roster window. ScoreKeeper features over a dozen different scores for each player and team. Along with score logging and the graphical user interface this plug-in is **the best around**! Read on for more information about the plug-in and its features...
 
 ## Features 
 
