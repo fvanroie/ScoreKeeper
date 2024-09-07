@@ -1,3 +1,5 @@
+![Splash](img/websplash.jpg)
+
 # What is ScoreKeeper?
 
 ScoreKeeper is a free custom score plug-in for Avara, a realtime 3D combat simulator for the 
